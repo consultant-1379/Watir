@@ -1,0 +1,57 @@
+454000012310468,13123VideoOnDemand Accessibility-t5-50%,05/09/2012  02:00:00,05/09/2012  02:15:00,Sep 5, 02:00 - 02:15,Video-On-Demand Speed/Quality,50 %,Video on demand
+454000012310468,13123VideoOnDemand Accessibility-t6-0%,05/09/2012  02:15:00,05/09/2012  02:30:00,Sep 5, 02:15 - 02:30,Video-On-Demand Speed/Quality,100 %,Video on demand
+454000012580581,13131File Transfer Accessibility-t1-100%,05/09/2012  01:00:00,05/09/2012  01:15:00,Sep 5, 01:00 - 01:15,File-Transfer Access,0 %,File transfer
+454000012580581,13131File Transfer Accessibility-t2-50%,05/09/2012  01:15:00,05/09/2012  01:30:00,Sep 5, 01:15 - 01:30,File-Transfer Access,50 %,File transfer
+454000012580581,13131File Transfer Accessibility-t3-0%,05/09/2012  01:30:00,05/09/2012  01:45:00,Sep 5, 01:30 - 01:45,File-Transfer Access,100 %,File transfer
+454000012580581,13131File Transfer Accessibility-t4-100%,05/09/2012  01:45:00,05/09/2012  02:00:00,Sep 5, 01:45 - 02:00,File-Transfer Access,0 %,File transfer
+454000012580581,13131File Transfer Accessibility-t5-100%,05/09/2012  02:00:00,05/09/2012  02:15:00,Sep 5, 02:00 - 02:15,File-Transfer Access,50 %,File transfer
+454000012580581,13131File Transfer Accessibility-t6-100%,05/09/2012  02:15:00,05/09/2012  02:30:00,Sep 5, 02:15 - 02:30,File-Transfer Access,0 %,File transfer
+454000012580581,13131File Transfer Accessibility-t7-100%,05/09/2012  02:30:00,05/09/2012  02:45:00,Sep 5, 02:30 - 02:45,File-Transfer Access,50 %,File transfer
+454000013005565,13132File Transfer Retainability-t1-100%,05/09/2012  01:00:00,05/09/2012  01:15:00,Sep 5, 01:00 - 01:15,File-Transfer Completion,50 %,File transfer
+454000013005565,13132File Transfer Retainability-t2-50%,05/09/2012  01:15:00,05/09/2012  01:30:00,Sep 5, 01:15 - 01:30,File-Transfer Completion,75 %,File transfer
+454000013005565,13132File Transfer Retainability-t3-0%,05/09/2012  01:30:00,05/09/2012  01:45:00,Sep 5, 01:30 - 01:45,File-Transfer Completion,100 %,File transfer
+454000012310468,13132File Transfer Integrity-t1-100%,05/09/2012  01:00:00,05/09/2012  01:15:00,Sep 5, 01:00 - 01:15,File-Transfer Speed/Quality,50 %,File transfer
+454000012310468,13132File Transfer Integrity-t2-50%,05/09/2012  01:15:00,05/09/2012  01:30:00,Sep 5, 01:15 - 01:30,File-Transfer Speed/Quality,75 %,File transfer
+454000012310468,13132File Transfer Integrity-t3-0%,05/09/2012  01:30:00,05/09/2012  01:45:00,Sep 5, 01:30 - 01:45,File-Transfer Speed/Quality,100 %,File transfer
+454000012580581,13141EMail Accessibility-t1-100%,05/09/2012  01:00:00,05/09/2012  01:15:00,Sep 5, 01:00 - 01:15,Email Access,0 %,Email
+454000012580581,13141EMail Accessibility-t2-50%,05/09/2012  01:15:00,05/09/2012  01:30:00,Sep 5, 01:15 - 01:30,Email Access,50 %,Email
+454000012580581,13141EMail Accessibility-t3-0%,05/09/2012  01:30:00,05/09/2012  01:45:00,Sep 5, 01:30 - 01:45,Email Access,100 %,Email
+454000012580581,13141EMail Accessibility-t4-100%,05/09/2012  01:45:00,05/09/2012  02:00:00,Sep 5, 01:45 - 02:00,Email Access,0 %,Email
+454000012580581,13141EMail Accessibility-t5-50%,05/09/2012  02:00:00,05/09/2012  02:15:00,Sep 5, 02:00 - 02:15,Email Access,50 %,Email
+454000012580581,13141EMail Accessibility-t6-0%,05/09/2012  02:15:00,05/09/2012  02:30:00,Sep 5, 02:15 - 02:30,Email Access,100 %,Email
+454000013033684,13142 EMail Retainability-t1-100%,05/09/2012  01:00:00,05/09/2012  01:15:00,Sep 5, 01:00 - 01:15,Email Completion,0 %,Email
+454000013033684,13142 EMail Retainability-t2-50%,05/09/2012  01:15:00,05/09/2012  01:30:00,Sep 5, 01:15 - 01:30,Email Completion,50 %,Email
+454000013033684,13142 EMail Retainability-t3-0%,05/09/2012  01:30:00,05/09/2012  01:45:00,Sep 5, 01:30 - 01:45,Email Completion,100 %,Email
+454000013033684,13142 EMail Retainability-t4-100%,05/09/2012  01:45:00,05/09/2012  02:00:00,Sep 5, 01:45 - 02:00,Email Completion,0 %,Email
+454000013033684,13142 EMail Retainability-t5-50%,05/09/2012  02:00:00,05/09/2012  02:15:00,Sep 5, 02:00 - 02:15,Email Completion,50 %,Email
+454000013033684,13142 EMail Retainability-t6-100%,05/09/2012  02:15:00,05/09/2012  02:30:00,Sep 5, 02:15 - 02:30,Email Completion,0 %,Email
+454000013033684,13142 EMail Retainability-t7-50%,05/09/2012  02:30:00,05/09/2012  02:45:00,Sep 5, 02:30 - 02:45,Email Completion,50 %,Email
+454000013033684,13142 EMail Retainability-t8-0%,05/09/2012  02:45:00,05/09/2012  03:00:00,Sep 5, 02:45 - 03:00,Email Completion,100 %,Email
+454000013033684,13142 EMail Retainability-t9-100%,05/09/2012  03:00:00,05/09/2012  03:15:00,Sep 5, 03:00 - 03:15,Email Completion,0 %,Email
+454000013033684,13142 EMail Retainability-t10-50%,05/09/2012  03:15:00,05/09/2012  03:30:00,Sep 5, 03:15 - 03:30,Email Completion,50 %,Email
+454000012310468,13143 EMail Integrity-t1-100%,05/09/2012  01:00:00,05/09/2012  01:15:00,Sep 5, 01:00 - 01:15,Email Speed/Quality,100 %,Email
+454000012310468,13143 EMail Integrity-t2-50%,05/09/2012  01:15:00,05/09/2012  01:30:00,Sep 5, 01:15 - 01:30,Email Speed/Quality,50 %,Email
+454000012310468,13143 EMail Integrity-t3-0%,05/09/2012  01:30:00,05/09/2012  01:45:00,Sep 5, 01:30 - 01:45,Email Speed/Quality,0 %,Email
+454000012580581,13111Web-Browsing-Accessibility-t1-50%,05/09/2012 01:00:00,05/09/2012 01:15:00,Sep 5, 01:00 - 01:15,Web-Browsing Access,50 %,Web browsing
+454000012580581,13111Web-Browsing-Accessibility-t2-0%,05/09/2012 01:15:00,05/09/2012  01:30:00,Sep 5, 01:15 - 01:30,Web-Browsing Access,100 %,Web browsing
+454000012580581,13111Web-Browsing-Accessibility-t3-100%,05/09/2012 01:30:00,05/09/2012  01:45:00,Sep 5, 01:30 - 01:45,Web-Browsing Access,0 %,Web browsing
+454000012580581,13111Web-Browsing-Accessibility-t4-50%,05/09/2012  01:45:00,05/09/2012  02:00:00,Sep 5, 01:45 - 02:00,Web-Browsing Access,50 %,Web browsing
+454000012580581,13111Web-Browsing-Accessibility-t5-100%,05/09/2012  02:00:00,05/09/2012  02:15:00,Sep 5, 02:00 - 02:15,Web-Browsing Access,0 %,Web browsing
+454000012580581,13111Web-Browsing-Accessibility-t6-50%,05/09/2012  02:15:00,05/09/2012  02:30:00,Sep 5, 02:15 - 02:30,Web-Browsing Access,50 %,Web browsing
+454000012580581,13111Web-Browsing-Accessibility-t7-100%,05/09/2012  02:30:00,05/09/2012  02:45:00,Sep 5, 02:30 - 02:45,Web-Browsing Access,0 %,Web browsing
+454000013033684,13112Web-Web Browsing Retainability-t1-100%,05/09/2012  01:00:00,05/09/2012  01:15:00,Sep 5, 01:00 - 01:15,Web-Browsing Completion,50 %,Web browsing
+454000013033684,13112Web-Web Browsing Retainability-t2-50%,05/09/2012  01:15:00,05/09/2012  01:30:00,Sep 5, 01:15 - 01:30,Web-Browsing Completion,75 %,Web browsing
+454000013033684,13112Web-Web Browsing Retainability-t3-0%,05/09/2012  01:30:00,05/09/2012  01:45:00,Sep 5, 01:30 - 01:45,Web-Browsing Completion,100 %,Web browsing
+454000012310468,13113Web Browsing Integrity-t1-100%,05/09/2012  01:00:00,05/09/2012  01:15:00,Sep 5, 01:00 - 01:15,Web-Browsing Speed/Quality,50 %,Web browsing
+454000012310468,13113Web Browsing Integrity-t2-50%,05/09/2012  01:15:00,05/09/2012  01:30:00,Sep 5, 01:15 - 01:30,Web-Browsing Speed/Quality,75 %,Web browsing
+454000012310468,13113Web Browsing Integrity-t3-0%,05/09/2012  01:30:00,05/09/2012  01:45:00,Sep 5, 01:30 - 01:45,Web-Browsing Speed/Quality,100 %,Web browsing
+454000012580581,13121VideoOnDemand Accessibility-t1-100%,05/09/2012  01:00:00,05/09/2012  01:15:00,Sep 5, 01:00 - 01:15,Video-On-Demand Access,0 %,Video on demand
+454000012580581,13121VideoOnDemand Accessibility-t2-50%,05/09/2012  01:15:00,05/09/2012  01:30:00,Sep 5, 01:15 - 01:30,Video-On-Demand Access,50 %,Video on demand
+454000012580581,13121VideoOnDemand Accessibility-t3-0%,05/09/2012  01:30:00,05/09/2012  01:45:00,Sep 5, 01:30 - 01:45,Video-On-Demand Access,100 %,Video on demand
+454000013033684,13122VideoOnDemand Retainability-t3-100%,05/09/2012  01:00:00,05/09/2012  01:15:00,Sep 5, 01:00 - 01:15,Video-On-Demand Completion,50 %,Video on demand
+454000013033684,13122VideoOnDemand Retainability-t3-50%,05/09/2012  01:15:00,05/09/2012  01:30:00,Sep 5, 01:15 - 01:30,Video-On-Demand Completion,75 %,Video on demand
+454000013033684,13122VideoOnDemand Retainability-t3-0%,05/09/2012  01:30:00,05/09/2012  01:45:00,Sep 5, 01:30 - 01:45,Video-On-Demand Completion,100 %,Video on demand
+454000012310468,13123VideoOnDemand Integrity-t1-100%,05/09/2012  01:00:00,05/09/2012  01:15:00,Sep 5, 01:00 - 01:15,Video-On-Demand Speed/Quality,100 %,Video on demand
+454000012310468,13123VideoOnDemand Integrity-t2-50%,05/09/2012  01:15:00,05/09/2012  01:30:00,Sep 5, 01:15 - 01:30,Video-On-Demand Speed/Quality,100 %,Video on demand
+454000012310468,13123VideoOnDemand Integrity-t3-0%,05/09/2012  01:30:00,05/09/2012  01:45:00,Sep 5, 01:30 - 01:45,Video-On-Demand Speed/Quality,100 %,Video on demand
+454000012310468,13123VideoOnDemand Integrity-t4-100%,05/09/2012  01:45:00,05/09/2012  02:00:00,Sep 5, 01:45 - 02:00,Video-On-Demand Speed/Quality,100 %,Video on demand
